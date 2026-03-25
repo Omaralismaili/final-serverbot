@@ -115,4 +115,4 @@ function setupLeaveRejoin(bot, createBot) {
     })
 }
 
-module.exports = setupLeaveRejoin
+module.exports = setupLeaveRejoin;
