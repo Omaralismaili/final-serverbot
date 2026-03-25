@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "conanorpx.aternos.me",
-    "port": 45167,
+    "ip": "conanman.mcsh.io",
+    "port": 19132,
     "version": "1.21.1"
   },
   "position": {
